@@ -16,6 +16,8 @@ Some disassembly is required to access the pins and buttons for this process.
 
 **The configurations that are shared have no guarantee or warranty. The configurations may not work on your device, or may even cause damage or harm. The configurations are to be considered AS-IS and should be used at your own risk.**
 
+![Top](Iuse1.JPG =250x)
+
 ## Specifications
 
 - 110mm X
