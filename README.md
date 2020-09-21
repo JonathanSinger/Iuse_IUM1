@@ -38,6 +38,8 @@ Some disassembly is required to access the pins and buttons for this process.
 
 ### pins_FYSETC_CLONE.h
 
+All pins were discovered and tested with a meter. Reviewing pinouts of both the controller and stepper drivers lead to full mapping.
+
 ## Setup
 
 ### pins.h
