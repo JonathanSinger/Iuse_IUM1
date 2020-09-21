@@ -67,7 +67,7 @@ pins_FYSETC_CLONE.h should be placed in the **src/pins/stm32f1/** directory.
 
 ## Flashing
 
-This particular board is programmed via Serial with a simple USB converter such as FTDI.
+This particular board is programmed via Serial with a simple USB converter such as FTDI in 3.3v configuration.
 
 ### Pinout
 
