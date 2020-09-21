@@ -57,8 +57,9 @@ This particular board is programmed via Serial with a simple USB converter such 
 Board Side "WIFI" J1 header
 
 ```
-___________________
-| -  | X | X | TX |
-| RX | X | X | +  |
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+[POWER]
+___________________ _____
+| -  | X | X | TX | |FAN|
+| RX | X | X | +  | | 1 | 
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯
 ```
