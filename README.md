@@ -95,7 +95,8 @@ Writing ████████████████████████
 ```
 
 To flash the board:
-1. Hold down the SW2 (BOOT0) button located near the endstop headers and JP1
-2. Press the reset button while holding BOOT0
-3. Release the BOOT0 button
+1. Hold down the BOOT0 (SW2) button located near the endstop headers and JP1
+2. Press and release the reset button while holding still BOOT0
+3. Release the BOOT0 button, the screen should appear blank
 4. Wait 2 seconds before running the stm32loader command
+5. Press the reset button one last time
